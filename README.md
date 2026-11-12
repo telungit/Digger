@@ -10,7 +10,7 @@ macOS 原生文件工作空间。用多窗格整理文件，通过文件浮窗�
 
 ## 安装
 
-首个公开版本正在准备中。发布后可使用 Homebrew 安装：
+推荐使用 Homebrew 安装：
 
 ```sh
 brew install --cask telungit/tap/digger
